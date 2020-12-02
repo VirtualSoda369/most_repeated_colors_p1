@@ -1,2 +1,2 @@
-# Most used colors in a image
+# Most repeated colors in a image (part 1)
 
